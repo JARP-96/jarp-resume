@@ -1,38 +1,76 @@
-.App {
-  text-align: center;
+/**
+* Lexend
+*/
+@font-face {
+  font-family: "LexendExa";
+  src: url("./assets/fonts/LexendExa-Regular.ttf");
+}
+@font-face {
+  font-family: "LexendDeca";
+  src: url("./assets/fonts/LexendDeca-Regular.ttf");
+}
+@font-face {
+  font-family: "LexendGiga";
+  src: url("./assets/fonts/LexendGiga-Regular.ttf");
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/**
+* Font Awesome
+*/
+@font-face {
+  font-family: "FA-Brands";
+  src: url("./assets/fonts/FontAwesome-Brands-Regular.otf");
+}
+@font-face {
+  font-family: "FA-Regular";
+  src: url("./assets/fonts/FontAwesome-Regular.otf");
+}
+@font-face {
+  font-family: "FA-Solid";
+  src: url("./assets/fonts/FontAwesome-Solid.otf");
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+body {
+  background-color: #e5e5e5;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+h1 {
+  font-size: 16px;
 }
-
-.App-link {
-  color: #61dafb;
+h2 {
+  font-size: 12px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+h3 {
+  font-size: 8px;
+}
+h4 {
+  font-family: "LexendGiga";
+  font-size: 15px;
+  margin: 0;
+}
+h1,
+h2,
+h3 {
+  font-family: "LexendExa";
+  margin: 0;
+}
+.icon-brand {
+  font-family: "FA-Brands";
+  margin: 0;
+  font-size: 12px;
+}
+.icon-regular {
+  font-family: "FA-Regular";
+  margin: 0;
+  font-size: 12px;
+}
+.icon-solid {
+  font-family: "FA-Solid";
+  margin: 0;
+  font-size: 12px;
+}
+hr {
+  margin: 0;
+  width: 50px;
+  border: 1.5px solid;
+  background-color: black;
 }
