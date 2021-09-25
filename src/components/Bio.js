@@ -1,13 +1,13 @@
 import "./Bio.css";
 
-const Bio = ({ summary }) => {
+const Bio = ({ data }) => {
   return (
     <div className="bio">
       <div className="bio-circle">
         <div className="circle" />
       </div>
       <div>
-        <p className="bio-text">{summary}</p>
+        <p className="bio-text">{data}</p>
       </div>
     </div>
   );

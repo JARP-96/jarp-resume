@@ -35,7 +35,7 @@
   },
   "work": [
     {
-      "company": "P\\S\\L Group, Querétaro, Remote",
+      "company": "P\\S\\L Group",
       "position": "Application Developer - Front-End",
       "website": "http://pslgroup.com",
       "startDate": "2020-11-08",
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "company": "Kindynos, Aguascalientes",
+      "company": "Kindynos",
       "position": "Front-End Developer",
       "website": "http://kindynos.mx",
       "startDate": "2018-09-21",
@@ -65,8 +65,8 @@
       ]
     },
     {
-      "company": "Freelance",
-      "position": "Full-Stack",
+      "company": "",
+      "position": "Freelance - Full-Stack",
       "website": "",
       "startDate": "",
       "endDate": "",
@@ -107,6 +107,14 @@
       "awarder": "TuApp",
       "summary": "Ocaña, Colombia. My team and I, comprised by two pedagogues, 3 developers and one designer (my sister), developed a videogame using the Unity engine to help children ages 6-12 learn english and current tecnologies, focused on developing communities."
     }
+  ],
+  "relevantSkills": [
+    "React",
+    "Figma",
+    "Storybook",
+    "Git",
+    "Enzyme",
+    "Adobe XD"
   ],
   "skills": [
     {

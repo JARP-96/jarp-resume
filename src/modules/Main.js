@@ -6,14 +6,18 @@ import en from "../assets/json/en.json";
 import WorkExperience from "../components/WorkExperience";
 
 const Main = () => {
-  const { basics } = en;
+  const { basics, work, relevantSkills } = en;
   return (
     <div className="main-container">
-      <Header basics={basics} />
-      <Bio summary={basics.summary} />
+      <Header data={basics} />
+      <Bio data={basics.summary} />
       <div className="main-columns">
-        <RelevantSkills />
-        <WorkExperience />
+        <div>
+          <RelevantSkills data={relevantSkills} />
+        </div>
+        <div>
+          <WorkExperience data={work} />
+        </div>
       </div>
     </div>
   );

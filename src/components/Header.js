@@ -1,8 +1,8 @@
 import "./Header.css";
 import photo from "../assets/img/photo.jpeg";
 
-const Header = ({ basics }) => {
-  const { name, label, phone, email, profiles } = basics;
+const Header = ({ data }) => {
+  const { name, label, phone, email, profiles } = data;
   return (
     <div className="header">
       <div className="detail" />
@@ -23,7 +23,7 @@ const Header = ({ basics }) => {
               <h3>{email}</h3>
             </div>
             {profiles.map((profile, i) => {
-              const { network, username, url } = profile;
+              const { network, username } = profile;
               return (
                 <div className="header-social-element" key={i}>
                   <p className="icon-brand">{network}</p>

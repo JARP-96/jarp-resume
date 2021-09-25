@@ -28,6 +28,7 @@
   width: 50px;
   background-color: #8b5fbf;
   right: 50px;
+  margin-top: -10px;
 }
 .photo {
   max-height: 83px;
@@ -38,7 +39,7 @@
 
 @media (max-width: 550px) {
   .header-contents {
-      padding: 0 10px;
+    padding: 0 10px;
   }
   .header-social {
     flex-direction: column;
