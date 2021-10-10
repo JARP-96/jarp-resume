@@ -8,7 +8,8 @@
 }
 
 .main-columns {
-    display: grid;grid-template-columns: 6fr 6fr;
+    display: grid;
+    grid-template-columns: 6fr 6fr;
     gap: 20px;
     margin: 20px 32px;
 }

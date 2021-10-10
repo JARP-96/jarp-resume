@@ -5,9 +5,10 @@ import RelevantSkills from "../components/RelevantSkills";
 import en from "../assets/json/en.json";
 import WorkExperience from "../components/WorkExperience";
 import Education from "../components/Education";
+import Languages from "../components/Languages";
 
 const Main = () => {
-  const { basics, work, relevantSkills, education } = en;
+  const { basics, work, relevantSkills, education, languages } = en;
   return (
     <div className="main-container">
       <Header data={basics} />
@@ -16,6 +17,7 @@ const Main = () => {
         <div className="main-column">
           <RelevantSkills data={relevantSkills} />
           <Education data={education}/>
+          <Languages data={languages}/>
         </div>
         <div className="main-column">
           <WorkExperience data={work} />

@@ -6,7 +6,6 @@ const Education = ({ data }) => {
     <div>
       <Title text="Education" />
       {data.map((education, i) => {
-        console.log(education);
         const { studyType, area, institution, startDate, endDate } = education;
         return (
           <div className="education-item" key={i}>
