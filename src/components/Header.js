@@ -7,7 +7,7 @@ const Header = ({ data }) => {
     <div className="header">
       <div className="detail" />
       <div className="header-contents">
-        <img className="photo" src={photo} alt="profile photo" />
+        <img className="photo" src={photo} alt="profile pic" />
         <div className="header-text">
           <div>
             <h1>{name}</h1>

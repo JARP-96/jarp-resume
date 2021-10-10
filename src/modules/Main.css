@@ -12,6 +12,9 @@
     gap: 20px;
     margin: 20px 32px;
 }
+.main-column > div {
+    margin-bottom: 10px;
+}
 
 @media (max-width: 600px) {
     .main-container {

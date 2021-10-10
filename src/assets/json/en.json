@@ -36,6 +36,7 @@
   "work": [
     {
       "company": "P\\S\\L Group",
+      "location": "Mexico",
       "position": "Application Developer - Front-End",
       "website": "http://pslgroup.com",
       "startDate": "2020-11-08",
@@ -52,6 +53,7 @@
     },
     {
       "company": "Kindynos",
+      "location": "Mexico",
       "position": "Front-End Developer",
       "website": "http://kindynos.mx",
       "startDate": "2018-09-21",
@@ -67,6 +69,7 @@
     {
       "company": "",
       "position": "Freelance - Full-Stack",
+      "location": "Mexico",
       "website": "",
       "startDate": "",
       "endDate": "",
