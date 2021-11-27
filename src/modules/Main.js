@@ -7,13 +7,14 @@ import WorkExperience from "../components/WorkExperience";
 import Education from "../components/Education";
 import Achievements from "../components/Achievements";
 import Languages from "../components/Languages";
+import UpdateDate from "../components/UpdateDate";
 
 const Main = () => {
   const { basics, work, relevantSkills, education, achievements, languages } = en;
-  console.log({achievements})
   return (
     <div className="main-container">
       <Header data={basics} />
+      <UpdateDate />
       <Bio data={basics.summary} />
       <div className="main-columns">
         <div className="main-column">
