@@ -2,7 +2,6 @@ import "./Languages.css";
 import Title from "./Title";
 
 const Languages = ({ data }) => {
-  console.log(data);
   return (
     <div>
       <Title text="Languages" />

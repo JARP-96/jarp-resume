@@ -6,7 +6,7 @@
     "email": "jarp9665@gmail.com",
     "phone": "+52 1 (449) 108 7562",
     "website": "",
-    "summary": "Currently working at PSL Group as a React Front-End developer since November 2020. Used to work at Kindynos from 2018 to 2020. The main technologies I use are React, Angular and Ionic 4, and I focus on the best UX/UI using Sketch, Figma and Adobe XD for prototyping.",
+    "summary": "Currently working at PSL Group as a React Front-End developer since November 2020. I used to work at Kindynos from 2018 to 2020. The main technologies I use are React, Angular and Ionic 4, and I focus on the best UX/UI using Sketch, Figma and Adobe XD for prototyping.",
     "location": {
       "address": "Blvd. Eugenio Garza Sada #21 int 62",
       "postalCode": "20328",
@@ -97,18 +97,20 @@
       "endDate": "2018-06"
     }
   ],
-  "awards": [
+  "achievements": [
     {
       "title": "Startup Entrepreneur Winner",
       "date": "2019-06",
       "awarder": "Trep Camp",
-      "summary": "New York. My team and I won the contest after we pitched a solution for a global challenge on the NextGen of Agriculture. I designed an interactive web application mock-up and showed it during a pitch to a panel of startup angel investors and came second out of nine teams.'"
+      "area": "Manhattan College, New York",
+      "summary": "My team and I won the contest after we pitched a solution for a global challenge on the NextGen of Agriculture. I designed an interactive web application mock-up and showed it during a pitch to a panel of startup angel investors and came second out of nine teams.'"
     },
     {
       "title": "TuApp 2017 Finalist",
       "date": "2017-11",
       "awarder": "TuApp",
-      "summary": "Ocaña, Colombia. My team and I, comprised by two pedagogues, 3 developers and one designer (my sister), developed a videogame using the Unity engine to help children ages 6-12 learn english and current tecnologies, focused on developing communities."
+      "area": "UFPS Ocaña, Colombia",
+      "summary": "My team and I, comprised by two pedagogues, 3 developers and one designer (my sister), developed a videogame using the Unity engine to help children ages 6-12 learn english and current tecnologies, focused on developing communities."
     }
   ],
   "relevantSkills": [

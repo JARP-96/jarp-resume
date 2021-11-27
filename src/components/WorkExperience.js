@@ -6,20 +6,29 @@ const WorkExperience = ({ data }) => {
     <div>
       <Title text="Work Experience" />
       {data.map((item, i) => {
-        const { position, company, location, startDate, endDate, summary, highlights } =
-          item;
+        const {
+          position,
+          company,
+          location,
+          startDate,
+          endDate,
+          summary,
+          highlights,
+        } = item;
         return (
           <div className="experience-item" key={i}>
             <h5>{position}</h5>
             {company && (
               <div className="experience-place">
-                <p>at {company} - {location}</p>
+                <p>
+                  at {company} - {location}
+                </p>
                 <p>
                   {startDate} - {endDate}
                 </p>
               </div>
             )}
-            <p className="experience-summary">{summary}</p>
+            <p className="summary">{summary}</p>
             <h6 className="highlight-title">Highlights</h6>
             {highlights.map((highlight, i) => {
               return (
