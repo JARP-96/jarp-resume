@@ -18,9 +18,15 @@ const Main = () => {
     en;
   return (
     <>
-    <Pdf targetRef={ref} filename="jarp-resume.pdf" >
-      {({ toPdf }) => <button onClick={toPdf}>Generate PDF</button>}
-    </Pdf>
+      <div className="pdf-button-container">
+        <Pdf targetRef={ref} filename="JARP-Resume.pdf">
+          {({ toPdf }) => (
+            <button className="pdf-button" onClick={toPdf}>
+              Generate PDF
+            </button>
+          )}
+        </Pdf>
+      </div>
       <div ref={ref} className="main-container">
         <Header data={basics} />
         <UpdateDate />
