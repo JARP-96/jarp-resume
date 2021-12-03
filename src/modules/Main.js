@@ -29,7 +29,6 @@ const Main = () => {
       </div>
       <div ref={ref} className="main-container">
         <Header data={basics} />
-        <UpdateDate />
         <Bio data={basics.summary} />
         <div className="main-columns">
           <div className="main-column">
@@ -41,6 +40,8 @@ const Main = () => {
           <div className="main-column">
             <WorkExperience data={work} />
           </div>
+
+        <UpdateDate />
         </div>
       </div>
     </>
