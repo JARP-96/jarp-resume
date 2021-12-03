@@ -11,14 +11,14 @@ li {
   font-family: "LexendDeca";
 }
 .experience-place {
-  font-size: 10px;
+  font-size: 14px;
 }
 .highlight-title {
   margin: 5px 0;
 }
 .highlight {
   display: flex;
-  font-size: 7px;
+  font-size: 10px;
   margin-left: -3px;
 }
 .highlight > div {
