@@ -23,12 +23,18 @@ const Header = ({ data }) => {
               <h3>{email}</h3>
             </div>
             {profiles.map((profile, i) => {
-              const { network, username } = profile;
+              const { network, username, url } = profile;
               return (
-                <div className="header-social-element" key={i}>
+                <a
+                  key={i}
+                  href={url}
+                  className="header-social-element"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                >
                   <p className="icon-brand">{network}</p>
                   <h3>{username}</h3>
-                </div>
+                </a>
               );
             })}
           </div>
