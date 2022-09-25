@@ -1,0 +1,10 @@
+.relevant-skills {
+  background-color: #8b5fbf;
+  padding: 10px;
+  max-width: 337px;
+}
+.skills {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+}

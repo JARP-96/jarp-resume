@@ -1,0 +1,186 @@
+{
+  "basics": {
+    "name": "Jorge Antonio Ramírez Padilla",
+    "label": "Front-End Developer - UI/UX Designer",
+    "picture": "",
+    "email": "jarp9665@gmail.com",
+    "phone": "+52 1 (449) 108 7562",
+    "website": "",
+    "summary": "Currently working at PSL Group as a React Front-End developer since November 2020. I used to work at Kindynos from 2018 to 2020. The main technologies I use are React, Angular and Ionic 4, and I focus on the best UX/UI using Sketch, Figma and Adobe XD for prototyping.",
+    "location": {
+      "address": "Blvd. Eugenio Garza Sada #21 int 62",
+      "postalCode": "20328",
+      "country": "Mexico",
+      "city": "Aguascalientes",
+      "countryCode": "MX",
+      "region": "Aguascalientes",
+      "icon": "location-dot"
+    },
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "jarp96",
+        "url": "http://linkedin.com/in/jarp96"
+      },
+      {
+        "network": "Medium",
+        "username": "@jarp9665",
+        "url": "https://medium.com/@jarp9665"
+      },
+      {
+        "network": "github",
+        "username": "JARP-96",
+        "url": "https://github.com/JARP-96"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "P\\S\\L Group",
+      "location": "Mexico",
+      "position": "Application Developer - Front-End",
+      "website": "http://pslgroup.com",
+      "startDate": "2020-11-08",
+      "endDate": "present",
+      "summary": "I'm responsible for providing the best Front-End implementation of what the client requires by communicating with my team of Back-End Developers, QC Team, Business and Middle Layer and providing clean, documented, efficient and optimized code.",
+      "highlights": [
+        "Experience developing in React.",
+        "Development using Storybook and Custom Templates (cra-templates).",
+        "Testing done using Jest and Enzyme.",
+        "Workflow managed using Commitizen linked to Bitbucket and Jira for smooth development process.",
+        "User tracking managed with Piwik and Matomo",
+        "Communication with the design team through Zeplin."
+      ]
+    },
+    {
+      "company": "Kindynos",
+      "location": "Mexico",
+      "position": "Front-End Developer",
+      "website": "http://kindynos.mx",
+      "startDate": "2018-09-21",
+      "endDate": "2020-11-05",
+      "summary": "Known as Pegasus by the Polis and PolisPay community, I began working as the Community Manager for the company, working simultaneously as a Front-End Web/App developer. Quickly after, I just focused on the web/app design/development side of the company.",
+      "highlights": [
+        "Gained experience developing on React, Wordpress and PHP for web development; Angular (Ionic 3/4) for app development; as well as Adobe XD and Figma for UI/UX Design.",
+        "Responsible for designing, developing and managing of the company's websites.",
+        "Lead the FE side of many projects from clients of the company.",
+        "Undertook the task of adding translation support for texts not only for the websites, but for the PolisPay app as well."
+      ]
+    },
+    {
+      "company": "",
+      "position": "Freelance - Full-Stack",
+      "location": "Mexico",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "I began working freelance when I was wrapping up my last year in College. My first project was with a friend, but the following ones were on my own, and they taught me a lot about working on my own directly with clients of all kinds.",
+      "highlights": [
+        "2018-05 Developed an Entry/Exit System for schools using QR codes. Developed in Code Igniter and MySQL.",
+        "2020-06 Developed yet another Entry/Exit System, this time for Industrial Parks and Private Residential areas. Developed in Angular using Ionic 4 and Code Igniter to connect the Database with the app.",
+        "2020-07 Designed and developed a website for an Energy Sollutions company. Designed on Figma, developed on React."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Panamericana campus Aguascalientes",
+      "area": "Engineering and Quality of Software Projects",
+      "studyType": "Postgraduate",
+      "startDate": "2018-08",
+      "endDate": "2019-06"
+    },
+    {
+      "institution": "Universidad Panamericana campus Aguascalientes",
+      "area": "Artificial Intelligence Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2014-08",
+      "endDate": "2018-06"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "UX/UI Designer",
+      "date": "2022-10",
+      "awarder": "Ironhack",
+      "area": "Berlin, Germany",
+      "summary": "I'll soon become a certified UX/UI Designer, where I learned about the whole process to bring a user need into a finished product."
+    },
+    {
+      "title": "Startup Entrepreneur Winner",
+      "date": "2019-06",
+      "awarder": "Trep Camp",
+      "area": "Manhattan College, New York",
+      "summary": "My team and I won the contest after we pitched a solution for a global challenge on the NextGen of Agriculture. I designed an interactive web application mock-up and showed it during a pitch to a panel of startup angel investors and came second out of nine teams.'"
+    },
+    {
+      "title": "TuApp 2017 Finalist",
+      "date": "2017-11",
+      "awarder": "TuApp",
+      "area": "UFPS Ocaña, Colombia",
+      "summary": "My team and I, comprised by two pedagogues, 3 developers and one designer (my sister), developed a videogame using the Unity engine to help children ages 6-12 learn english and current tecnologies, focused on developing communities."
+    }
+  ],
+  "relevantSkills": [
+    "React",
+    "Figma",
+    "Storybook",
+    "Git",
+    "Enzyme",
+    "Adobe XD",
+    "Javascript"
+  ],
+  "skills": [
+    {
+      "name": "Web/App Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React",
+        "Angular",
+        "Ionic 3/4",
+        "Material UI",
+        "Bootstrap",
+        "PHP",
+        "Code Igniter",
+        "SQL",
+        "Android"
+      ]
+    },
+    {
+      "name": "Design",
+      "keywords": [
+        "Figma",
+        "Adobe XD",
+        "Sketch",
+        "Zeplin",
+        "Adobe Photoshop",
+        "GIMP"
+      ]
+    },
+    { "name": "Testing", "keywords": ["Enzyme", "Jest", "UI Automator"] },
+    {
+      "name": "Version Control/Organization",
+      "keywords": ["Jira", "Bitbucket", "Github", "Commitizen"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "C2, Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "B2, Intermediate"
+    },
+    {
+      "language": "French",
+      "fluency": "A2, Basic"
+    }
+  ]
+}

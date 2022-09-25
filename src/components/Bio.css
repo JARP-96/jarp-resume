@@ -1,0 +1,22 @@
+.bio {
+  display: flex;
+  margin: 10px 0;
+  padding: 0 25px;
+  background-color: #e8e9ea;
+}
+.bio-circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.marker-circle {
+  height: 15px;
+  width: 15px;
+  border-radius: 100%;
+  background-color: #8b5fbf;
+}
+.bio-text {
+  font-size: 14px;
+  font-family: "LexendDeca";
+  margin: 13px;
+}

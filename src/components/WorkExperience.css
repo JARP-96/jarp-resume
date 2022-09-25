@@ -1,0 +1,30 @@
+.experience-item {
+  margin-top: 10px;
+}
+.experience-place {
+  display: flex;
+  justify-content: space-between;
+}
+p,
+li {
+  margin: 0;
+  font-family: "LexendDeca";
+}
+.experience-place {
+  font-size: 14px;
+}
+.highlight-title {
+  margin: 5px 0;
+}
+.highlight {
+  display: flex;
+  font-size: 11px;
+  margin-left: -3px;
+}
+.highlight > div {
+  height: 2px;
+  min-width: 6px;
+  background-color: #8b5fbf;
+  margin-top: 4px;
+  margin-right: 3px;
+}

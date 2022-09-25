@@ -1,0 +1,4 @@
+.achievement-place {
+  display: flex;
+  justify-content: space-between;
+}

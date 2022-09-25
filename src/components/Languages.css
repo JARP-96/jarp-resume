@@ -1,0 +1,16 @@
+.languages-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.coso {
+  display: flex;
+  align-items: center;
+}
+.marker-triangle-right {
+  width: 0;
+  height: 0;
+  border-top: 8px solid transparent;
+  border-left: 15px solid #8b5fbf;
+  border-bottom: 8px solid transparent;
+  margin: 12px;
+}
