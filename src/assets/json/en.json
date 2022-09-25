@@ -13,7 +13,8 @@
       "country": "Mexico",
       "city": "Aguascalientes",
       "countryCode": "MX",
-      "region": "Aguascalientes"
+      "region": "Aguascalientes",
+      "icon": "location-dot"
     },
     "profiles": [
       {
@@ -99,6 +100,13 @@
   ],
   "achievements": [
     {
+      "title": "UX/UI Designer",
+      "date": "2022-10",
+      "awarder": "Ironhack",
+      "area": "Berlin, Germany",
+      "summary": "I'll soon become a certified UX/UI Designer, where I learned about the whole process to bring a user need into a finished product."
+    },
+    {
       "title": "Startup Entrepreneur Winner",
       "date": "2019-06",
       "awarder": "Trep Camp",
@@ -119,7 +127,8 @@
     "Storybook",
     "Git",
     "Enzyme",
-    "Adobe XD"
+    "Adobe XD",
+    "Javascript"
   ],
   "skills": [
     {
