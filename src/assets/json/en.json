@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jorge Antonio Ramírez Padilla",
-    "label": "Front-End Developer - UI/UX Designer",
+    "label": "Front-End Developer - UX/UI Designer",
     "picture": "",
     "email": "jarp9665@gmail.com",
     "phone": "+52 1 (449) 108 7562",
@@ -42,11 +42,11 @@
       "website": "http://pslgroup.com",
       "startDate": "2020-11-08",
       "endDate": "present",
-      "summary": "I'm responsible for providing the best Front-End implementation of what the client requires by communicating with my team of Back-End Developers, QC Team, Business and Middle Layer and providing clean, documented, efficient and optimized code.",
+      "summary": "I'm responsible for providing the best Front-End implementation of what the client requires by communicating with my team of Back-End Developers, QC Team, Business and Middle Layer and providing clean, documented, efficient and optimized code. My work has helped the company increase engagement by an average 20% each month by improving Newsletters.",
       "highlights": [
         "Experience developing in React.",
         "Development using Storybook and Custom Templates (cra-templates).",
-        "Testing done using Jest and Enzyme.",
+        "Testing done using Jest, Enzyme, and React Testing Library.",
         "Workflow managed using Commitizen linked to Bitbucket and Jira for smooth development process.",
         "User tracking managed with Piwik and Matomo",
         "Communication with the design team through Zeplin."
@@ -63,7 +63,7 @@
       "highlights": [
         "Gained experience developing on React, Wordpress and PHP for web development; Angular (Ionic 3/4) for app development; as well as Adobe XD and Figma for UI/UX Design.",
         "Responsible for designing, developing and managing of the company's websites.",
-        "Lead the FE side of many projects from clients of the company.",
+        "Lead the Front End side of many projects from clients of the company.",
         "Undertook the task of adding translation support for texts not only for the websites, but for the PolisPay app as well."
       ]
     },
@@ -74,11 +74,11 @@
       "website": "",
       "startDate": "",
       "endDate": "",
-      "summary": "I began working freelance when I was wrapping up my last year in College. My first project was with a friend, but the following ones were on my own, and they taught me a lot about working on my own directly with clients of all kinds.",
+      "summary": "",
       "highlights": [
-        "2018-05 Developed an Entry/Exit System for schools using QR codes. Developed in Code Igniter and MySQL.",
-        "2020-06 Developed yet another Entry/Exit System, this time for Industrial Parks and Private Residential areas. Developed in Angular using Ionic 4 and Code Igniter to connect the Database with the app.",
-        "2020-07 Designed and developed a website for an Energy Sollutions company. Designed on Figma, developed on React."
+        "2018-05 Developed an Entry/Exit System for schools using QR codes. Developed in Code Igniter and MySQL. This decreased wait times by 30 minutes per shift.",
+        "2020-06 Developed yet another Entry/Exit System, this time for Industrial Parks and Private Residential areas. Developed in Angular using Ionic 4 and Code Igniter to connect the Database with the app. This effort increased security, and made everyday access more agile.",
+        "2020-07 Designed and developed a website for an Energy Sollutions company. Designed on Figma, developed on React. This helped my client get more clients interested on their services."
       ]
     }
   ],
@@ -100,18 +100,18 @@
   ],
   "achievements": [
     {
-      "title": "UX/UI Designer",
-      "date": "2022-10",
+      "title": "UX/UI Designer | Hackshow Winner",
+      "date": "2022-08 - 2022-10",
       "awarder": "Ironhack",
       "area": "Berlin, Germany",
-      "summary": "I'll soon become a certified UX/UI Designer, where I learned about the whole process to bring a user need into a finished product."
+      "summary": "Certified UX/UI Designer, winner of the Berlin August - October 2022 Hackshow. I learned about the whole UX/UI process, as well as create multiple proyects, with real companies to gain real first-hand experience."
     },
     {
       "title": "Startup Entrepreneur Winner",
       "date": "2019-06",
       "awarder": "Trep Camp",
       "area": "Manhattan College, New York",
-      "summary": "My team and I won the contest after we pitched a solution for a global challenge on the NextGen of Agriculture. I designed an interactive web application mock-up and showed it during a pitch to a panel of startup angel investors and came second out of nine teams.'"
+      "summary": "Pitched a solution for a global challenge on the NextGen of Agriculture. I designed an interactive web application mock-up and showed it to a panel of startup angel investors and came second out of nine teams.'"
     },
     {
       "title": "TuApp 2017 Finalist",
@@ -124,11 +124,11 @@
   "relevantSkills": [
     "React",
     "Figma",
+    "JavaScript",
     "Storybook",
     "Git",
     "Enzyme",
-    "Adobe XD",
-    "Javascript"
+    "Adobe XD"
   ],
   "skills": [
     {
@@ -136,7 +136,7 @@
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript",
+        "JavaScript",
         "React",
         "Angular",
         "Ionic 3/4",
@@ -159,7 +159,7 @@
         "GIMP"
       ]
     },
-    { "name": "Testing", "keywords": ["Enzyme", "Jest", "UI Automator"] },
+    { "name": "Testing", "keywords": ["Enzyme", "Jest", "UI Automator", "React Testing Library"] },
     {
       "name": "Version Control/Organization",
       "keywords": ["Jira", "Bitbucket", "Github", "Commitizen"]
